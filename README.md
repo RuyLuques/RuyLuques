@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Ana Flávia Ruy Luques, desenvolvedora front-end e criadora de conteúdo de programação e marketing!
+## Hi, I'm Ana Flávia Ruy Luques, front-end developer and content creator for programming and marketing!
 <div align="center">
   <a href="https://github.com/ruyluques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruyluques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
