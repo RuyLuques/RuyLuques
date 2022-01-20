@@ -10,7 +10,7 @@
   <img align="center" alt="RuyLuques-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RuyLuques-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RuyLuques-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="RuyLuques-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
+  <img align="center" alt="RuyLuques-Angula" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angula-plain.svg">
   <img align="center" alt="RuyLuques-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <hr>
 <div> 
